@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local project runtime artifacts
+.airflow/
+dags/
+logs/
+mlartifacts/
+*.db
+*.generated
